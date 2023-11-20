@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(226, 31, 200, 0.705);
+}
+
+
+nav ul{
+    display: flex;
+    list-style: none;
+   text-align: center ;
+  justify-content: center;
+   font-size: 13px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.img{
+    border-radius: 50%;
+    
+}
+.name{
+    margin-top: 15px;
+    flex: 2;
+    font-weight: bold;
+}
+.pass{
+    margin-top: 15px;
+    flex:2;
+    font-weight: bold;
+}
+.b1{
+    border:none;
+    border-bottom: 1px solid rgb(44, 42, 42);
+}
+.b2{
+  border:none;
+  border-bottom: 1px solid rgb(44, 42, 42);
+}
+.rem{
+    font-weight: bold;
+}
+.lbtn{
+    margin-top: 15px;
+
+    text-align: center;
+}
+.rem{
+    margin-top: 15px;
+
+  
+}
+.cbtn{
+    margin-top: 15px;
+  
+    text-align: center;
+}
+.forgot{
+    margin-top:15px;
+    font-size: 13px;
+}

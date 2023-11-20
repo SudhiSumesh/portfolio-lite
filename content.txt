@@ -1,0 +1,18 @@
+Hi, I'm [Your Name], a recent graduate in B.Voc Software Development from Kerala University, India. I am passionate about web development and have experience in HTML, CSS, JavaScript, React, Tailwind, Bootstrap, and Git. I have worked on a project using React+Tailwind, focusing on the frontend and design.
+
+I am a quick learner and have great leadership experience and teamwork skills. I am also good at communication and enjoy working with people from diverse backgrounds.
+
+I am currently looking for a web developer job that will allow me to apply my skills and knowledge to create innovative solutions. If you are interested in working with me or would like to learn more about my experience, please feel free to contact me at [Your Email Address].
+
+Thank you for visiting my portfolio website!
+
+
+font:"Space Grotesk", sans-serif;
+
+#1b1b1bf8
+
+
+git-repo:https://github.com/SudhiSumesh/vite-react-tailwind-project.git
+
+
+git-site:https://sudhisumesh.github.io/vite-react-tailwind-project/

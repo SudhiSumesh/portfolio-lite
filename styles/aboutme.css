@@ -1,0 +1,106 @@
+.page_about_me{
+    background-color: #0f0f0f;
+    display: flex;
+    height: 100vh;
+}
+.about_page_left-section{
+    padding-top: 150px;
+  padding-left: 40px;
+  padding-bottom: 50px;
+  width: 45%;
+}
+
+.about_page_project_intro{
+    color: #f70354;
+}
+
+
+.about_page_qoute{
+    font-size: 40px;
+    width: 85%;
+    font-weight: bolder;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+
+.about_page_hire_me_btn{
+    background-color: transparent;
+    width: 150px;
+    padding-block: 12px;
+    border-radius: 4px;
+    border: 2px solid #414141;
+    transition: 0.3s ease-in-out;
+}
+.about_page_hire_me_btn a{
+    text-decoration: none;
+  margin-left: 1.6rem;
+  padding-right: 0.6rem;
+  color: #f70354;
+}
+.about_page_hire_me_btn:hover{
+    border-color: white;
+    cursor: pointer;
+  
+}
+.about_page_hire_me_btn a:hover{
+    color: white;
+  background-color: black;
+}
+
+
+/* .about_page_right_section */
+.about_page_right_section{
+    margin-left: -7rem;
+  margin-right: 3rem;
+  width: 54%;
+  margin-top: 12rem;
+  margin-bottom: 1.5rem;
+  height: 370px;
+  background-color: #181818;
+  border-radius: 1.5rem;
+  color: white;
+}
+
+
+
+.about_page_para_container{
+   width: 90%;
+   
+}
+.about_page_para_container h1{
+    color: #f70354;
+    margin: 2rem;
+    font-size: 46px;
+}
+.about_page_para_container p{
+    margin: 2rem;
+    text-align: justify;
+    color: #ffffffd5;
+}
+
+
+
+.about_page__bottom{
+   margin-top: 4rem;
+   padding-bottom: 40px;
+   background-color: #0f0f0f; 
+}
+.about_page__bottom h1{
+    color: #f70354;
+    margin: 2rem;
+    font-size: 30px;
+}
+.about_img_container{
+    display: flex;
+    
+   
+}
+.img_con{
+   border:1px solid #f70354 ;
+   border-radius: 7px;
+   padding: .7rem;
+    margin-left:2rem ;
+    background-color: #0f0f0f;
+}
